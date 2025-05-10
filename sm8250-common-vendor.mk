@@ -235,6 +235,9 @@ PRODUCT_PACKAGES += \
     libwfdutils_proprietary \
     libasphere \
     libshoebox \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
     android.hardware.secure_element@1.0-impl \
